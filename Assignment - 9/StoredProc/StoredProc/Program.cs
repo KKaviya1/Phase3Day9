@@ -9,7 +9,7 @@ namespace Assessment09
         static SqlConnection con;
         static SqlCommand cmd;
         static SqlTransaction trans;
-        static string connection = "Server=DESKTOP-PE7BHIE;Database=Assignments;Trusted_Connection=True";
+        static string connection = "Server=DESKTOP-PE7BHIE;Database=OrderDb;Trusted_Connection=True";
         static void Main(string[] args)
         {
             try
