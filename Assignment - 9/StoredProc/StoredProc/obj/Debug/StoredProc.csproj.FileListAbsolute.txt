@@ -1,0 +1,7 @@
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\bin\Debug\StoredProc.exe.config
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\bin\Debug\StoredProc.exe
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\bin\Debug\StoredProc.pdb
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\obj\Debug\StoredProc.csproj.AssemblyReference.cache
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\obj\Debug\StoredProc.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\obj\Debug\StoredProc.exe
+F:\Phase 3\Day 9\Assignment - 9\StoredProc\StoredProc\obj\Debug\StoredProc.pdb
